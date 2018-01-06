@@ -17,7 +17,7 @@ var TeamSpeak = require('node-teamspeak-api');
 // Default IP: 'localhost'
 // Default port: 10011
 
-var tsClient = new TeamSpeak('localhot', 10011);
+var tsClient = new TeamSpeak('localhost', 10011);
 ```
 
 ```javascript
